@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "live-server": "^1.1.0"
+  },
+  "name": "bankist-2",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
